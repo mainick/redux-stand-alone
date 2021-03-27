@@ -10,3 +10,6 @@ In generale, una tipica applicazione JavaScript è piena di stato, ad esempio:
 - i dati che recuperiamo da fonti esterne, ad esempio API
 - gli elementi selezionati all'interno di una pagina
 - eventuali errori da mostrare all'utente
+
+**articolo**
+https://medium.com/webeetle/redux-in-vanilla-javascript-60394a936658
